@@ -1,1 +1,1 @@
-# Live page (Hosted in [Render](https://render.com/)) is currently active at; https://inferna.lat
+# Live page (Hosted in [Render](https://render.com/)) is currently active at: https://inferna.lat
